@@ -1,6 +1,6 @@
 # RoboFarm Water Saver
 
-Web e-prototype for **Idea’Wave / Innov Travel Morocco 2026** (Euromed Fès, 16–17 November 2026). A farm simulation and copiable hardware plan for a water-saving irrigation rover aimed at Moroccan cooperatives.
+Web e-prototype for **Idea’Wave ** (Euromed Fès, November 2026). A farm simulation and copiable hardware plan for a water-saving irrigation rover aimed at Moroccan cooperatives.
 
 The robot measures soil and air, georeferences samples (GPS + IMU), and an application recommends **where, when and how much** to irrigate. This repo is the Next.js stand-in for the Flutter dashboard in the pitch: mock telemetry, two BOMs, Arduino wiring, MQTT payload.
 
