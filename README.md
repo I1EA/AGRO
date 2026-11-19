@@ -4,6 +4,12 @@ Web e-prototype for **Idea’Wave ** (Euromed Fès, November 2026). A farm simul
 
 The robot measures soil and air, georeferences samples (GPS + IMU), and an application recommends **where, when and how much** to irrigate. This repo is the Next.js stand-in for the Flutter dashboard in the pitch: mock telemetry, two BOMs, Arduino wiring, MQTT payload.
 
+## 🎬 Pitch video (60 s, FR)
+
+[![RoboFarm Water Saver – Pitch 60s](https://img.youtube.com/vi/L2oggvW8Vm0/hqdefault.jpg)](https://youtu.be/L2oggvW8Vm0)
+
+RoboFarm Water Saver : un rover terrestre équipé d'un micro-drone caméra pour irriguer juste dans les vergers (oliviers, avocatiers, kakis…). → [Voir la vidéo](https://youtu.be/L2oggvW8Vm0)
+
 ## Run locally
 
 ```bash
